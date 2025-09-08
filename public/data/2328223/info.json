@@ -1,0 +1,11 @@
+{
+    "nombre": "Ivan David Ausecha Salamanca",
+    "edad": 20,
+    "carrera": "Ing de Sistemas",
+    "semestre": 6,
+    "gustos": ["Futbol", "MTB", "Correr", "Jugar videojuegos"],
+    "noGustos": ["Despertarse temprano", "Gatos", "Cocinar", "Tareas largas"],
+    "foto": "..imgs/IMG_2680.HEIC"
+}
+
+  
